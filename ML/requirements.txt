@@ -137,7 +137,6 @@ python-dateutil==2.8.2
 python-dev-tools==2020.9.10
 pytz==2022.1
 pyupgrade==2.31.0
-pywin32==225
 PyYAML==6.0
 pyzmq==23.2.0
 regex==2022.7.25
