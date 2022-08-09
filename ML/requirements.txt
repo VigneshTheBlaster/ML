@@ -116,7 +116,6 @@ portpicker==1.2.0
 prompt-toolkit==1.0.18
 protobuf==3.19.4
 psycopg2==2.9.3
-py==1.11.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 PyAudio==0.2.11
